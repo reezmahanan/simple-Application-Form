@@ -16,7 +16,7 @@ A modern, responsive web-based application form built using HTML and CSS. This p
 
 ## Demo
 
-![Screenshot of Application Form](<img width="669" height="808" alt="Screenshot 2025-09-06 210501" src="https://github.com/user-attachments/assets/b8802a7c-1516-4fff-b00d-221117e72a4e" />
+![Screenshot of Application Form](https://github.com/reezmahanan/simple-Application-Form/blob/main/Screenshot%202025-09-06%20210501.png
 ) <!-- Add a screenshot named screenshot.png in your repo for better visuals -->
 
 ## Getting Started
